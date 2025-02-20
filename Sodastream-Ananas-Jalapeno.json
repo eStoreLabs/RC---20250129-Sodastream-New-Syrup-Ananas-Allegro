@@ -1,0 +1,64 @@
+[
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./KV.png",
+      "size": "L",
+      "alt": "Ananas i Jalapeño"
+    },
+    "text": {
+      "content": "<p>Odmień oblicze smaku i podkreśl piękno życia z nową, bezalkoholową bazą do koktajli i moktajli SodaStream Crafted Ananas & Jalapeño!</p><p><b>Perfekcyjne koktajle i moktajle na 1, 2, tssst!</b></p><p>Na co masz ochotę? Orzeźwiający moktajl, lemoniadę z twistem, a może finezyjny koktajl? Z nową gamą syropów smakowych SodaStream Crafted w kilka chwil wyczarujesz napój dla siebie i bliskich. Dolej do syropu wodę gazowaną przygotowaną w Twoim saturatorze SodaStream i opcjonalnie wybierz kilka dodatków, a później... zrelaksuj się i rozsmakuj w doznaniach, które dodają życiu ognia!</p><p><b>Kreuj niezapomniane dni pełne bąbelkowej świeżości i zaskakującego smaku z SodaStream Crafted Ananas & Jalapeño!</b></p>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-02.png",
+      "size": "L",
+      "alt": "Gazuj, Miksuj, Smakuj"
+    },
+    "text": {
+      "content": "<h3>Wzbogacaj codzienność bąbelkami z SodaStream Crafted</h3><p><b>Bąbelkuj przepysznie</b></p><p>Odkryj harmoniczny smak słodkiego ananasa i pikantnego jalapeño! To wyjątkowe połączenie w mgnieniu oka przeniesie Cię na tropikalną wyspę, gdzie słodycz i ogień łączą się w idealnie zbalansowaną i ekscytującą kompozycję smaku.</p><p><b>Bąbelkuj wygodnie</b></p><p>Z syropem smakowym SodaStream Crafted w mgnieniu oka stworzysz napoje, którym trudno się oprzeć. Bezalkoholowy moktajl, koktajl z alkoholem, lekka lemoniada… wystarczy dodać wodę gazową, opcjonalnie kilka dodatków i gotowe! Eksperymenty smakowe w domowym barze są teraz prostsze niż kiedykolwiek. </p><p><b>Bąbelkuj wydajnie</b></p><p>Baza do koktajli i moktajli to Twój sposób na wspaniałe chwile i… oszczędzanie! Z jedną butelką SodaStream Crafted 330 ml przygotujesz nawet 20 napojów. To 20 momentów pełnych relaksu w ogrodzie, 10 romantycznych randek we dwoje lub jedna, niezapomniana impreza z przyjaciółmi. </p><p><b>Za dnia pozwól sobie na chwilę orzeźwienia, a wieczorem przygotuj wyśmienite drinki, które pozwolą bawić się do białego rana. Zainspiruj się przepisami na moktajle i kotajle z SodaStream Crafted Ananas&Jalapeño</b></p>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-03.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "Moktajl: Tropical Pineapple Fizz"
+    },
+    "text": {
+      "content": "<h3>Moktajl: Tropical Pineapple Fizz</h3><p><b>Składniki:</b></p><ul><li>35 ml bazy SodaStream Crafted Ananas & Jalapeño</li><li>35 ml musu ananasowego</li><li>20 ml soku z limonki</li><li>45 ml wody gazowanej SodaStream</li><li>Kostki lodu</li><li>Kawałek ananasa, plaster czerwonej pomarańczy </li></ul><p><b>Przygotowanie:</b></p><ul><li>Do shakera wsyp kostki lodu. Wlej mus ananasowy, sok z limonki i bazę SodaStream. </li><li>Zamknij shaker i mocno wstrząsaj przez 15-20 sekund.</li><li>Napełnij szklankę kostkami lodu. Przelej zawartość shakera przez sitko barmańskie.</li><li>Uzupełnij szklankę wodą gazowaną, delikatnie mieszając napój. </li><li>Ozdób kawałkiem ananasa i plasterkiem suszonej pomarańczy.</li></ul>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-04.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "Koktajl: Jalapeño Piña Loco"
+    },
+    "text": {
+      "content": "<h3>Koktajl: Jalapeño Piña Loco</h3><p><b>Składniki:</b></p><ul><li>35 ml bazy SodaStream Crafted Ananas & Jalapeño</li><li>70 ml likieru kokosowego na bazie rumu</li><li>10 ml musu ananasowego</li><li>55 ml wody gazowanej SodaStream</li><li>Kostki lodu</li><li>Plaster i liść ananasa</li></ul><p><b>Przygotowanie:</b></p><ul><li>Shaker wypełnij do połowy kostkami lodu. </li><li>Wlej likier kokosowy, mus ananasowy i bazę SodaStream.</li><li>Zamknij shaker i energicznie wstrząsaj przez 15-20 sekund.</li><li>Napełnij kieliszek kostkami lodu. </li><li>Przelej wymieszane składniki przez sitko barmańskie. </li><li>Dopełnij kieliszek wodą gazowaną i delikatnie zamieszaj koktajl. </li><li>Ozdób plasterkiem i liściem ananasa.</li></ul>",
+      "order": "FIRST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-05.png",
+      "size": "L",
+      "alt": "Zostań mistrzem domowego baru "
+    },
+    "text": {
+      "content": "<p><b>Zostań mistrzem domowego baru </b></p><p>Czy znasz już podstawy miksologii – sztuki przygotowywania oryginalnych napojów? Nie musisz ich znać! By stać się mistrzem domowego baru wystarczy Ci saturator SodaStream i baza SodaStream Crafted Ananas & Jalapeño. Eksperymentuj i baw się smakami, by zapewnić sobie i bliskim niezapomniane doznania: za dnia i po zmroku!</p><p>Jeśli poszukujesz innych doznań smakowych, sięgnij po bogatą kolekcję syropów SodaStream! Odkryj klasyczne smaki Pepsi, Mirindę i 7Up, orzeźwiającą Lemoniadę lub pozwól się ponieść fantazji z nieoczywistymi, owocowymi kompozycjami. Z SodaStream możliwości są nieograniczone!</p><p><b>Jaki napój zmiksujesz tym razem?</b></p>",
+      "order": "FIRST"
+    }
+  }
+]
