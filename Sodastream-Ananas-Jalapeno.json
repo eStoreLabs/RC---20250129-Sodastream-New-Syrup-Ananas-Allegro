@@ -1,13 +1,21 @@
 [
   {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD01.png",
+      "size": "L",
+      "alt": "SodaStream Crafted Ananas & Jalapeño"
+    }
+  },
+  {
     "type": "IMAGE_WITH_TEXT",
     "image": {
-      "url": "./KV.png",
+      "url": "./MOD05.png",
       "size": "L",
       "alt": "Ananas i Jalapeño"
     },
     "text": {
-      "content": "<p>Odmień oblicze smaku i podkreśl piękno życia z nową, bezalkoholową bazą do koktajli i moktajli SodaStream Crafted Ananas & Jalapeño!</p><p><strong>Perfekcyjne koktajle i moktajle na 1, 2, tssst!</strong></p><p>Na co masz ochotę? Orzeźwiający moktajl, lemoniadę z twistem, a może finezyjny koktajl? Z nową gamą syropów smakowych SodaStream Crafted w kilka chwil wyczarujesz napój dla siebie i bliskich. Dolej do syropu wodę gazowaną przygotowaną w Twoim saturatorze SodaStream i opcjonalnie wybierz kilka dodatków, a później... zrelaksuj się i rozsmakuj w doznaniach, które dodają życiu ognia!</p><p><strong>Kreuj niezapomniane dni pełne bąbelkowej świeżości i zaskakującego smaku z SodaStream Crafted Ananas & Jalapeño!</strong></p>",
+      "content": "<p>Odmień oblicze smaku i podkreśl piękno życia z nową, bezalkoholową bazą do koktajli i moktajli <strong>SodaStream Crafted Ananas & Jalapeño!</strong></p><p><strong>Perfekcyjne koktajle i moktajle na 1, 2, tssst!</strong></p><p>Na co masz ochotę? Orzeźwiający moktajl, lemoniadę z twistem, a może finezyjny koktajl? Z nową gamą syropów smakowych SodaStream Crafted w kilka chwil wyczarujesz napój dla siebie i bliskich. Dolej do syropu wodę gazowaną przygotowaną w Twoim saturatorze SodaStream i opcjonalnie wybierz kilka dodatków, a później... zrelaksuj się i rozsmakuj w doznaniach, które dodają życiu ognia!</p><p><strong>Kreuj niezapomniane dni pełne bąbelkowej świeżości i zaskakującego smaku z SodaStream Crafted Ananas & Jalapeño!</strong></p>",
       "order": "LAST"
     }
   },
