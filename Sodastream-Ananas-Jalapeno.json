@@ -1,10 +1,14 @@
 [
   {
-    "type": "IMAGE",
+    "type": "IMAGE_WITH_TEXT",
     "image": {
       "url": "./MOD01.png",
       "size": "L",
       "alt": "SodaStream Crafted Ananas & Jalapeño"
+    },
+    "text": {
+      "content": "<p>Odmień oblicze smaku i podkreśl piękno życia z nową, bezalkoholową bazą do koktajli i moktajli <strong>SodaStream Crafted Ananas & Jalapeño!</strong></p><p><strong>Perfekcyjne koktajle i moktajle na 1, 2, tssst!</strong></p><p>Na co masz ochotę? Orzeźwiający moktajl, lemoniadę z twistem, a może finezyjny koktajl? Z nową gamą syropów smakowych SodaStream Crafted w kilka chwil wyczarujesz napój dla siebie i bliskich. Dolej do syropu wodę gazowaną przygotowaną w Twoim saturatorze SodaStream i opcjonalnie wybierz kilka dodatków, a później... zrelaksuj się i rozsmakuj w doznaniach, które dodają życiu ognia!</p><p><strong>Kreuj niezapomniane dni pełne bąbelkowej świeżości i zaskakującego smaku z SodaStream Crafted Ananas & Jalapeño!</strong></p>",
+      "order": "LAST"
     }
   },
   {
@@ -15,8 +19,8 @@
       "alt": "Ananas i Jalapeño"
     },
     "text": {
-      "content": "<p>Odmień oblicze smaku i podkreśl piękno życia z nową, bezalkoholową bazą do koktajli i moktajli <strong>SodaStream Crafted Ananas & Jalapeño!</strong></p><p><strong>Perfekcyjne koktajle i moktajle na 1, 2, tssst!</strong></p><p>Na co masz ochotę? Orzeźwiający moktajl, lemoniadę z twistem, a może finezyjny koktajl? Z nową gamą syropów smakowych SodaStream Crafted w kilka chwil wyczarujesz napój dla siebie i bliskich. Dolej do syropu wodę gazowaną przygotowaną w Twoim saturatorze SodaStream i opcjonalnie wybierz kilka dodatków, a później... zrelaksuj się i rozsmakuj w doznaniach, które dodają życiu ognia!</p><p><strong>Kreuj niezapomniane dni pełne bąbelkowej świeżości i zaskakującego smaku z SodaStream Crafted Ananas & Jalapeño!</strong></p>",
-      "order": "FIRST"
+      "content": "<h3>Wzbogacaj codzienność bąbelkami z SodaStream Crafted</h3><p><strong>Bąbelkuj przepysznie</strong></p><p>Odkryj harmoniczny smak słodkiego ananasa i pikantnego jalapeño! To wyjątkowe połączenie w mgnieniu oka przeniesie Cię na tropikalną wyspę, gdzie słodycz i ogień łączą się w idealnie zbalansowaną i ekscytującą kompozycję smaku.</p><p><strong>Bąbelkuj wygodnie</strong></p><p>Z syropem smakowym SodaStream Crafted w mgnieniu oka stworzysz napoje, którym trudno się oprzeć. Bezalkoholowy moktajl, koktajl z alkoholem, lekka lemoniada… wystarczy dodać wodę gazową, opcjonalnie kilka dodatków i gotowe! Eksperymenty smakowe w domowym barze są teraz prostsze niż kiedykolwiek. </p><p><strong>Bąbelkuj wydajnie</strong></p><p>Baza do koktajli i moktajli to Twój sposób na wspaniałe chwile i… oszczędzanie! Z jedną butelką SodaStream Crafted 330 ml przygotujesz nawet 20 napojów. To 20 momentów pełnych relaksu w ogrodzie, 10 romantycznych randek we dwoje lub jedna, niezapomniana impreza z przyjaciółmi.</p>",
+      "order": "LAST"
     }
   },
   {
@@ -24,17 +28,11 @@
     "image": {
       "url": "./MOD-02.png",
       "size": "L",
-      "alt": "Gazuj, Miksuj, Smakuj"
+      "alt": "Chwila orzeźwienia"
     },
     "text": {
-      "content": "<h3>Wzbogacaj codzienność bąbelkami z SodaStream Crafted</h3><p><strong>Bąbelkuj przepysznie</strong></p><p>Odkryj harmoniczny smak słodkiego ananasa i pikantnego jalapeño! To wyjątkowe połączenie w mgnieniu oka przeniesie Cię na tropikalną wyspę, gdzie słodycz i ogień łączą się w idealnie zbalansowaną i ekscytującą kompozycję smaku.</p><p><strong>Bąbelkuj wygodnie</strong></p><p>Z syropem smakowym SodaStream Crafted w mgnieniu oka stworzysz napoje, którym trudno się oprzeć. Bezalkoholowy moktajl, koktajl z alkoholem, lekka lemoniada… wystarczy dodać wodę gazową, opcjonalnie kilka dodatków i gotowe! Eksperymenty smakowe w domowym barze są teraz prostsze niż kiedykolwiek. </p><p><strong>Bąbelkuj wydajnie</strong></p><p>Baza do koktajli i moktajli to Twój sposób na wspaniałe chwile i… oszczędzanie! Z jedną butelką SodaStream Crafted 330 ml przygotujesz nawet 20 napojów. To 20 momentów pełnych relaksu w ogrodzie, 10 romantycznych randek we dwoje lub jedna, niezapomniana impreza z przyjaciółmi. </p>",
-      "order": "FIRST"
-    }
-  },
-  {
-    "type": "TEXT",
-    "text": {
-      "content": "<p><strong>Za dnia pozwól sobie na chwilę orzeźwienia, a wieczorem przygotuj wyśmienite drinki, które pozwolą bawić się do białego rana. Zainspiruj się przepisami na moktajle i kotajle z SodaStream Crafted Ananas&Jalapeño</strong></p>"
+      "content": "<p><strong>Za dnia pozwól sobie na chwilę orzeźwienia, a wieczorem przygotuj wyśmienite drinki, które pozwolą bawić się do białego rana. Zainspiruj się przepisami na moktajle i kotajle z SodaStream Crafted Ananas&Jalapeño</strong></p>",
+      "order": "LAST"
     }
   },
   {
