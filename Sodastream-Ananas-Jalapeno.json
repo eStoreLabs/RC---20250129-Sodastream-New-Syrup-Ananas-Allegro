@@ -8,8 +8,9 @@
       "alt": "Baza do koktajli i moktajli"
     },
     "text": {
-      "content": "<p>SodaStream Crafted<br>Baza do koktajli i moktajli Ananas & Jalapeño, 330 ml</p>",
-      "order": "FIRST"
+      "content": "<h3>SodaStream Crafted<br>Baza do koktajli i moktajli Ananas & Jalapeño, 330 ml</h3>",
+      "order": "FIRST",
+      "align": "MID"
     }
   },
   {
